@@ -21,7 +21,6 @@ require_once("include/header.php");
 <option value="a">Dr.Qudrate-E-Khuda Hall</option>
 <option value="e">Sufia Kamal Hall</option>
 </select><br>
-
 <label for="blood_group">Blood Group :</label>
 <select name="blood" id="blood_gropu" size="1" >
 <option value=" ">Select...</option>
